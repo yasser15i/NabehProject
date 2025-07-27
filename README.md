@@ -1,6 +1,6 @@
 # NabehProject
 
-#Nabih - Study Platform for Students with Special Needs
+# Nabih - Study Platform for Students with Special Needs
 
 A smart educational platform that supports students with ADHD through specialized study tools.
 
